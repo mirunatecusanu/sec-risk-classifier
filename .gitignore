@@ -1,4 +1,4 @@
-.env           # Don't commit real credentials
+.env
 *.pyc
 __pycache__/
 venv/
